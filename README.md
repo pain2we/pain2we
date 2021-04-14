@@ -1,7 +1,3 @@
-### Hi there 👋
-
-This is test 
-
 <!--
 **pain2we/pain2we** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
