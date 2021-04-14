@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/pain2we">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=pain2we&show_icons=true&theme=buefy" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=pain2we&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/pain2we">
-  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pain2we&layout=compact&show_icons=true&theme=buefy" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pain2we&layout=compact&show_icons=true&theme=buefy" />
 </a>
