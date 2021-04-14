@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/opskumu">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=opskumu&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/opskumu">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opskumu&layout=compact&show_icons=true&theme=buefy" />
+</a>
